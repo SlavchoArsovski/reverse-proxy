@@ -1,0 +1,1 @@
+java -cp "lib/*;config/" org.springframework.boot.loader.JarLauncher
